@@ -1,4 +1,4 @@
-import tgcrypto
+import <module>
 from pyromod import listen
 from pyrogram import Client, filters
 import os

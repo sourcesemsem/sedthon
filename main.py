@@ -1,4 +1,4 @@
-import <module>
+import module
 from pyromod import listen
 from pyrogram import Client, filters
 import os
